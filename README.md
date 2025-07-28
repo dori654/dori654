@@ -59,8 +59,5 @@
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjh5cnBlajR0cXNzbWM4dXd0M3d2eXJtaGwwODk4dXNnMDY0OG5qeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif"  />
 
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/dori654/count.svg?"  />
-</div>
 
 ###
