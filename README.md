@@ -52,9 +52,15 @@
   </a>
 </div>
 
-###
 
-<img align="center" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjh5cnBlajR0cXNzbWM4dXd0M3d2eXJtaGwwODk4dXNnMDY0OG5qeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif"  />
+
+<p align="left">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=4787nh57dvmxw70feq79cs6iq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=false">
+  </a>
+</p>
+
+<img align="left" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjh5cnBlajR0cXNzbWM4dXd0M3d2eXJtaGwwODk4dXNnMDY0OG5qeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif"  />
 
 
 
