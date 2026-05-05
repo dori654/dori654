@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dori Fourer and I'm a DevOps engineer, from Israel </h2>
+<h2 align="left">Hi 👋! My name is Dori Fourer and I'm a Software engineer with DevOps knowledge, from Israel </h2>
 
 
 ###
