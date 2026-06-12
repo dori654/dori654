@@ -1,67 +1,95 @@
-<h2 align="left">Hi 👋! My name is Dori Fourer and I'm a Software engineer with DevOps knowledge, from Israel </h2>
+# <span style="font-size:3.5em; font-weight:700;">Dori Fourer</span>
 
-
-###
-
-<div align="left">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/kubernetes/kubernetes-original.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/terraform/terraform-original-wordmark.svg" height="30" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
-
-
-
-<div align="left">
-  <a href="dori.fourer654@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/dori-fourer/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/dori654/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/dori.fourer/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-</div>
-
-
-
-<p align="left">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=4787nh57dvmxw70feq79cs6iq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=false">
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Software+Engineer;Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Automation+%26+R%26D+Passionate" alt="Typing SVG"/>
 </p>
 
-<img align="left" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjh5cnBlajR0cXNzbWM4dXd0M3d2eXJtaGwwODk4dXNnMDY0OG5qeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif"  />
+---
+
+## <span style="font-size:1.8em;">About Me</span>
+
+Software Engineer with a strong background in DevOps, cloud infrastructure, and automation.
+
+🎓 B.Sc. in Software Engineering
+
+☁️ Google Cloud Professional Cloud Architect (PCA)
+
+🚀 Graduate of the Develeap DevOps Bootcamp
+
+🔧 Experienced with Kubernetes, Docker, CI/CD pipelines, Terraform, cloud platforms, and software development.
+
+🌱 Currently seeking opportunities in:
+- DevOps Engineering
+- Platform Engineering
+- Site Reliability Engineering (SRE)
+- Software Engineering
+
+
+🌐 **[Visit my website → dorifourer.com](https://www.dorifourer.com)**
+
+---
+
+## <span style="font-size:1.8em;">Tech Stack</span>
+
+<div align="center" style="font-size:1.2em;">
+
+### Programming Languages
+
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" height="40"/>
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" height="40"/>
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" height="40"/>
+<img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff&style=for-the-badge" height="40"/>
+<img src="https://img.shields.io/badge/-C%23-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge" height="40"/>
+<img src="https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=fff&style=for-the-badge" height="40"/>
+
+### Frameworks & Tools
+
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge" height="40"/>
+<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge" height="40"/>
+<img src="https://img.shields.io/badge/-Express-000?logo=express&logoColor=fff&style=for-the-badge" height="40"/>
+<img src="https://img.shields.io/badge/-Flask-000?logo=flask&logoColor=fff&style=for-the-badge" height="40"/>
+<img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff&style=for-the-badge" height="40"/>
+<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" height="40"/>
+<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" height="40"/>
+
+### Cloud & DevOps
+
+<img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=fff&style=for-the-badge" height="40"/>
+<img src="https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=fff&style=for-the-badge" height="40"/>
+<img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge" height="40"/>
+<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" height="40"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=fff" height="40"/>
+<img src="https://img.shields.io/badge/-Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=fff" height="40"/>
+<img src="https://img.shields.io/badge/-CI%2FCD-000?logo=githubactions&logoColor=fff&style=for-the-badge" height="40"/>
+
+
+</div>
 
 
 
-###
+---
+
+## <span style="font-size:1.8em;">GitHub Analytics</span>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dori654&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dori654&theme=radical" height="170"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dori654&layout=compact&theme=radical" height="170"/>
+</p>
+
+---
+
+
+## <span style="font-size:1.8em;">Connect with Me</span>
+
+<p align="center">
+  <a href="mailto:dori.fourer654@gmail.com"><img src="https://img.shields.io/badge/Email-Dori-red?style=for-the-badge&logo=gmail&logoColor=white" height="40"></a>
+  <a href="https://www.linkedin.com/in/dori-fourer"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="40"></a>
+  <a href="https://www.dorifourer.com"><img src="https://img.shields.io/badge/Website-Visit-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white" height="40"></a>
+</p>
+
+---
+
+<p align="center" style="font-size:1.2em;"><i>“Progress lies in advancing toward what will be.”</i></p>
